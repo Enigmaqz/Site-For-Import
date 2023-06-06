@@ -1,0 +1,10 @@
+
+tmp/
+
+*_old
+
+*_backup
+
+Thumbs*
+
+*.DS_Store
